@@ -1,2 +1,4 @@
 test file
-v3
+v3.1
+
+This line is being added to version2 but I don't have version 3. What happens if I rebase? 
