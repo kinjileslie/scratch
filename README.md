@@ -8,5 +8,5 @@ Hello. Welcome to my scratch page. Have a fortune:
 You are the master of every situation.
 
 - Learn Chinese: Strawberry = Cao mei
-- Lucky numbers (Lotto): 03-04-06-08-44-45
+- Lucky numbers (Lotto): 03-04-06-08-44-33
 - Daily numbers (Pick3): 54
